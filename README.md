@@ -4,3 +4,4 @@
 - week one: Linux, Networking, Terminal
 - week two: Docker
 - week three: PostgreSQL
+- week four: Redis and Caching
