@@ -6,3 +6,6 @@
 - week two: Docker
 - week three: PostgreSQL
 - week four: Redis and Caching
+
+### Month two: Architecture and Messaging
+- 
