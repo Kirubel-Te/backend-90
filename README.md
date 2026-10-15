@@ -8,4 +8,5 @@
 - week four: Redis and Caching
 
 ### Month two: Architecture and Messaging
-- week one: System Design 
+- week one: System Design
+- week two: Distributed Systems
