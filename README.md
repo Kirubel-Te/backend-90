@@ -12,3 +12,4 @@
 - week two: Distributed Systems
 - week three: Microservices
 - week four: Load Balancing + Scalability & Reliability
+- week five: Queues + Kafka/RabbitMQ
