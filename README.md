@@ -13,3 +13,5 @@
 - week three: Microservices
 - week four: Load Balancing + Scalability & Reliability
 - week five: Queues + Kafka/RabbitMQ
+
+### Month three: Platform, Ops & Quality
