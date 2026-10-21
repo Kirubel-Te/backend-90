@@ -15,3 +15,4 @@
 - week five: Queues + Kafka/RabbitMQ
 
 ### Month three: Platform, Ops & Quality
+- week one: Kubernetes
