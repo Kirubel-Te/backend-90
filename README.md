@@ -17,3 +17,4 @@
 ### Month three: Platform, Ops & Quality
 - week one: Kubernetes
 - week two: AWS & Azure
+- week three: CI/CD + Observability
