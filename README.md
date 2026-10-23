@@ -18,3 +18,4 @@
 - week one: Kubernetes
 - week two: AWS & Azure
 - week three: CI/CD + Observability
+- week four: Security + Testing
