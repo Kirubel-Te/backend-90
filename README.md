@@ -1,7 +1,8 @@
 # backend-90
 ## mastering backend in 90 days
 
-### Month one: 
+### Month one: Foundation and Data
+ Goal: be completely comfortable in a Linux shell, containerize anything, and model + query data like you mean it. Everything later stands on this.
 - week one: Linux, Networking, Terminal
 - week two: Docker
 - week three: PostgreSQL
